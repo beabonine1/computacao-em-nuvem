@@ -1,0 +1,47 @@
+.container{
+    color: azure;
+    text-align: center;
+}
+.menus{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(47, 51, 112);
+  
+}
+.btn-1{
+    color: rgb(128, 128, 165);
+    padding-left: 1em;  
+    margin: 2px solid white;
+    color: rgb(216, 186, 245);
+}
+.btn-1 :hover{
+    background-color: rgb(151, 144, 247);
+}
+.img img{
+     max-width: 100%;
+     height: 900px;
+    
+
+}
+.textos{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:white;
+    background-color: rgb(47, 51, 112);
+ 
+}
+.rodape{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(47, 51, 112);
+
+    width: 30em;
+    margin-left:auto;
+    margin-right: auto;
+}
+.rodape p{
+    padding-left: 1em ;
+}
